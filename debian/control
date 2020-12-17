@@ -1,0 +1,12 @@
+Source: ros-noetic-gazebo-ros-control-select-joints
+Section: misc
+Priority: optional
+Maintainer: Stefan Fabian <fabian@sim.tu-darmstadt.de>
+Build-Depends: debhelper (>= 9.0.0), gazebo11, ros-noetic-angles, ros-noetic-catkin, ros-noetic-control-toolbox, ros-noetic-controller-manager, ros-noetic-gazebo-ros-control, ros-noetic-hardware-interface, ros-noetic-joint-limits-interface, ros-noetic-pluginlib, ros-noetic-roscpp, ros-noetic-std-msgs, ros-noetic-transmission-interface, ros-noetic-urdf
+Homepage: http://ros.org/wiki/gazebo_ros_control_select_joints
+Standards-Version: 3.9.2
+
+Package: ros-noetic-gazebo-ros-control-select-joints
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, gazebo11, ros-noetic-angles, ros-noetic-control-toolbox, ros-noetic-controller-manager, ros-noetic-gazebo-ros, ros-noetic-gazebo-ros-control, ros-noetic-hardware-interface, ros-noetic-joint-limits-interface, ros-noetic-pluginlib, ros-noetic-roscpp, ros-noetic-std-msgs, ros-noetic-transmission-interface, ros-noetic-urdf
+Description: gazebo_ros_contrl_select_joints

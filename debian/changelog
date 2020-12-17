@@ -1,0 +1,8 @@
+ros-noetic-gazebo-ros-control-select-joints (2.5.7-1focal) focal; urgency=high
+
+  * Updated maintainer info.
+  * Contributors: Stefan Fabian
+
+ -- Stefan Fabian <fabian@sim.tu-darmstadt.de>  Thu, 17 Dec 2020 00:00:00 -0000
+
+
